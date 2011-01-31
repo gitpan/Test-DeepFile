@@ -1,0 +1,6 @@
+Revision history for Perl extension Test::DeepFile.
+
+0.001  Wed Jan 12 10:35:04 2011
+	- original version; created by h2xs 1.23 with options
+		-Afn Test::DeepFile
+
