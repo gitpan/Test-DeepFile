@@ -17,3 +17,4 @@ unlink "t/deepfile/one more.data" or die;
 
 cmp_deeply_file([ 'two' ], "two more");
 
+unlink "t/deepfile/two more.data" or die;

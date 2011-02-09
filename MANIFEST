@@ -13,4 +13,5 @@ Makefile.PL
 MANIFEST
 META.yml
 README
+SIGNATURE
 t/Test-DeepFile.t

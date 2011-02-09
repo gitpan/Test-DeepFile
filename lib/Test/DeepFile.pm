@@ -28,7 +28,7 @@ our @EXPORT = qw(
     cmp_deeply_file
 );
 
-our $VERSION = '0.002';
+our $VERSION = '0.003';
 
 our %seen;
 
